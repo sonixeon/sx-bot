@@ -30,14 +30,14 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "Your Love",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
+        "100088911244006",
         "100015168369582"
       ]
     }
@@ -45,18 +45,18 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
+      "100088911244006",
       "100015168369582"
     ]
   },
   "adminBot": [
-    "100082395531611",
+    "100088911244006",
     "100015168369582"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
+      "100088911244006",
       "100015168369582"
     ]
   },
